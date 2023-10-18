@@ -7,7 +7,6 @@ sempre que um novo tipo de forma é adicionado.
 public interface Shape {
     private String type;
 
-    public void draw() {
-     
-    }
+    public void draw() 
+    
 }
